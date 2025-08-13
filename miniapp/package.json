@@ -18,7 +18,8 @@
     "next-intl": "^4.1.0",
     "normalize.css": "^8.0.1",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-qr-barcode-scanner": "^2.1.8"
   },
   "devDependencies": {
     "@types/node": "^20",
